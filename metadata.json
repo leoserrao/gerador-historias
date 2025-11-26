@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Histórias Gemini",
+  "description": "Um aplicativo web para gerar histórias criativas com a ajuda da IA Gemini, onde o usuário define o gênero, herói e vilão.",
+  "requestFramePermissions": []
+}
